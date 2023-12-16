@@ -65,16 +65,16 @@ button:hover {
     margin: 20px;
   }
   .card-1 {
-    border-bottom-left-radius: 0px;
+    border-bottom-left-radius: 10px;
     border-bottom-right-radius: 15px;
   }
   .card-2 {
-    border-bottom-left-radius: 0px;
+    border-bottom-left-radius: 10px;
     border-bottom-right-radius: 15px;
   }
 
   .card-3 {
-    border-bottom-left-radius: 0px;
+    border-bottom-left-radius: 10px;
     border-bottom-right-radius: 15px;
   }
 }
